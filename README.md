@@ -30,19 +30,7 @@ Uses Rich library
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Installation
+Instalation
 
 Clone the repository:
 
